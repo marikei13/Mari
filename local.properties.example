@@ -1,0 +1,8 @@
+# Copia este archivo como "local.properties" (Android Studio ya crea uno con sdk.dir;
+# solo agrega estas dos líneas al final). Este archivo NO se sube a git.
+
+# Clave de la API de Anthropic: https://console.anthropic.com/
+ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxx
+
+# AccessKey de Picovoice (gratis para uso personal): https://console.picovoice.ai/
+PICOVOICE_ACCESS_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
